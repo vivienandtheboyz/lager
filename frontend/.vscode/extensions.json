@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vivaxy.vscode-conventional-commits",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "vue.volar"
+  ]
+}
